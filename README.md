@@ -1,4 +1,4 @@
-⁷# edgeremover
+# edgeremover
 
 What the project actully does.
 
